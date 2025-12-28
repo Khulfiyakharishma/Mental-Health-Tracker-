@@ -1,0 +1,10 @@
+okay
+fine
+average
+normal
+meh
+so-so
+neutral
+unchanged
+alright
+regular
